@@ -5,14 +5,6 @@
 ## Description
 Site web pour la conférence sur l'intelligence artificielle organisée par l'IUT de Calais le 12 mars 2026.
 
-## Installation
-
-1. Créer une base de données MySQL nommée `conference_ia`
-2. Importer le fichier `database.sql` pour créer les tables nécessaires
-3. Modifier le fichier `config.php` avec vos informations de connexion à la base de données
-4. Placer tous les fichiers sur votre serveur web
-5. Accéder au site via votre navigateur
-
 ## Structure des fichiers
 
 - `config.php` - Configuration de la base de données et du site
@@ -34,13 +26,7 @@ Site web pour la conférence sur l'intelligence artificielle organisée par l'IU
   - `images/` - Images du site
 - `database.sql` - Script SQL pour créer la base de données
 
-## Accès à l'administration
 
-- URL: `http://votresite.com/admin/`
-- Identifiant: admin
-- Mot de passe: admin123
-
-**Important**: Changez le mot de passe par défaut après la première connexion!
 
 ## Technologies utilisées
 
@@ -49,8 +35,3 @@ Site web pour la conférence sur l'intelligence artificielle organisée par l'IU
 - HTML5
 - CSS3
 - JavaScript (pour d'éventuelles améliorations futures)
-
-## Auteurs
-
-Équipe organisatrice de la Conférence IA 2026
-Département Informatique - IUT de Calais
